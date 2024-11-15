@@ -23,3 +23,5 @@ Run the crawler with:
 Example:
     `python main.py https://andyljones.com --pool-size 5 --timeout 10`
 
+## License
+MIT License
